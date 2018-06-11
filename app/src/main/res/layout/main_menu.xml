@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="#ff02958b"
+    android:orientation="vertical"
+    android:paddingTop="10dp" >
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViews"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7830181975348510/3054007865"/>
+    <ListView
+        android:id="@+id/menuList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </ListView>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.arna.manager.views.baners.AdView
+            android:id="@+id/banners8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.arna.manager.views.baners.AdView
+            android:id="@+id/banners9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.arna.manager.views.baners.AdView
+            android:id="@+id/banners10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <com.arna.manager.views.baners.AdView
+            android:id="@+id/banners11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </LinearLayout>
+</LinearLayout>

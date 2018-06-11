@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NetGlobeTesterApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="NGApiKey">569486fcbdad03b058480f012304d14d4e82e67624fa2e4a3540b63fb588aabd</string>
+    <string name="GoogleSenderId">298076258447</string>
+    <string name="NGVersionType">BAZZAR_YYYYY</string>
+
+</resources>

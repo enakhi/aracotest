@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298076258447",
+    "firebase_url": "https://fcmtesterapp.firebaseio.com",
+    "project_id": "fcmtesterapp",
+    "storage_bucket": "fcmtesterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298076258447:android:6ff7ce935e5bee32",
+        "android_client_info": {
+          "package_name": "com.arna.testerApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298076258447-m7k3qem2pdv7rc7cctme804c4hpi0802.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3wBvrCb7vO1pTdyIjtFeC9ObKAlK_oco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
